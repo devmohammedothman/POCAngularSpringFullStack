@@ -1,0 +1,16 @@
+com\selftraining\mvn\angularspringmaven\dao\iCarDao.class
+com\selftraining\mvn\angularspringmaven\dao\UserDaoImpl.class
+com\selftraining\mvn\angularspringmaven\controller\CarController.class
+com\selftraining\mvn\angularspringmaven\service\CarServiceImpl.class
+com\selftraining\mvn\angularspringmaven\service\iCarService.class
+com\selftraining\mvn\angularspringmaven\config\SpringWebAppInitializer.class
+com\selftraining\mvn\angularspringmaven\model\Car.class
+com\selftraining\mvn\angularspringmaven\service\UserServiceImpl.class
+com\selftraining\mvn\angularspringmaven\config\HibernateConfig.class
+com\selftraining\mvn\angularspringmaven\controller\UserController.class
+com\selftraining\mvn\angularspringmaven\dao\iUserDao.class
+com\selftraining\mvn\angularspringmaven\config\MvcConfiguration.class
+com\selftraining\mvn\angularspringmaven\controller\welcomeController.class
+com\selftraining\mvn\angularspringmaven\service\iUserService.class
+com\selftraining\mvn\angularspringmaven\dao\CarDaoImpl.class
+com\selftraining\mvn\angularspringmaven\model\User.class

@@ -1,12 +1,14 @@
 <div class="container-fluid">
 <div class="col-md-offset-1">
+<button (click)="useLanguage('en')">en</button>
+<button (click)="useLanguage('ar')">ar</button>
   <h1>
     Welcome to {{title}}!
   </h1>
 </div>
 
-<a routerLink="/users">List Users</a>
-<a style="margin-left:10px" routerLink="/add">Add User</a>
+<a routerLink="/users">{{ 'ListUsers' | translate }}</a>
+<a style="margin-left:10px" routerLink="/add">{{ 'AddUser' | translate }}r</a>
 <br/>
 <router-outlet></router-outlet>
 </div>

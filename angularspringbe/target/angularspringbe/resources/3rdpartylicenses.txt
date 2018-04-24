@@ -71,6 +71,10 @@ THE SOFTWARE.
 MIT
 MIT
 
+@ngx-translate/core@9.1.1
+MIT
+MIT
+
 bootstrap@3.3.7
 MIT
 The MIT License (MIT)

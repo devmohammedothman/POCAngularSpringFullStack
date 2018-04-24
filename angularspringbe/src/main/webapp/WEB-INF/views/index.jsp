@@ -14,12 +14,12 @@
 <body>
 	<app-root></app-root>
 	<script type="text/javascript"
-		src="<%=request.getContextPath()%>/resources/inline.196cfa0ad7468d957f40.bundle.js"></script>
+		src="<%=request.getContextPath()%>/resources/inline.6d80d3ac41023a4b9a1c.bundle.js"></script>
 	<script type="text/javascript"
 		src="<%=request.getContextPath()%>/resources/polyfills.61df7d7ec492d95bb0b2.bundle.js"></script>
 	<script type="text/javascript"
 		src="<%=request.getContextPath()%>/resources/scripts.00463c22d93137b6066b.bundle.js"></script>
 	<script type="text/javascript"
-		src="<%=request.getContextPath()%>/resources/main.53f1658b32ede570d8b4.bundle.js"></script>
+		src="<%=request.getContextPath()%>/resources/main.941485807c10917b041b.bundle.js"></script>
 </body>
 </html>

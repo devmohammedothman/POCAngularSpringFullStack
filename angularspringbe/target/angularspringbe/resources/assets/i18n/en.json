@@ -1,0 +1,11 @@
+{
+  "ListUsers": "List Users",
+  "FirstName": "First Name",
+  "LastName": "Last Name",
+  "Email": "Email",
+  "Action": "Action",
+  "DeleteUser": "Delete User",
+  "EmailAddress": "Email Address",
+  "Create": "Create",
+  "AddUser": "Add User"
+}

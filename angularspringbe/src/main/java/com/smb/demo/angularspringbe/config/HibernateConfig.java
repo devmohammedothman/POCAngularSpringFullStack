@@ -19,10 +19,7 @@ import static org.hibernate.cfg.Environment.*;
 
 @Configuration
 @EnableTransactionManagement
-@ComponentScan("com.sbm.demo.angularspringbe.config")
-@ComponentScan("com.sbm.demo.angularspringbe.dao")
-@ComponentScan("com.sbm.demo.angularspringbe.service")
-@ComponentScan("com.sbm.demo.angularspringbe.model")
+@ComponentScan("com.sbm.demo.angularspringbe")
 @PropertySource ("classpath:db.properties")
 public class HibernateConfig {
 	

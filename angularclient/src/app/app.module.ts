@@ -37,7 +37,10 @@ import {HttpClient, HttpClientModule} from '@angular/common/http';
     bootstrap: [AppComponent]
 })
 export class AppModule { }
+//export function createTranslateLoader(http: HttpClient) {
+//    return new TranslateHttpLoader(http, './assets/i18n/', '.json');
+//}
 // required for AOT compilation
 export function HttpLoaderFactory(http: HttpClient) {
-    return new TranslateHttpLoader(http);
+    return new TranslateHttpLoader(http, './resources/assets/i18n/', '.json');
 }

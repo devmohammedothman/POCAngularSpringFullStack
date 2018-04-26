@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "my-app"
+    "name": "portal-app"
   },
   "apps": [
     {
@@ -10,7 +10,7 @@
       "assets": [
         "assets",
         "favicon.ico",
-        "./angularspringbe/resources/assets"
+        "./angularspringbe/resources/assets" 
       ],
       "index": "index.html",
       "main": "main.ts",
